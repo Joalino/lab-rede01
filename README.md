@@ -26,4 +26,26 @@ Data : 09/03/2026
   ## 2. Equipamentos utilizados neste laboratório 
 
   - 3 notebooks
-  - 1 roteador wireless 
+  - 1 roteador wireless com 1 porta WAN e 4 portas LAN
+  - 1 impressora de rede
+  - cabos de rede
+
+  ---
+
+   ## 3. Topologia da Rede 
+   Diagrama lógico da rede utilizada neste laboratório:
+
+   ```mermaid
+graph TD
+
+WAN[Internet / WAN do Provedor]
+
+Router[Roteador Wireless<br>4 Portas LAN]
+
+PC1[Notebook 1]
+PC2[Notebook 2]
+PC3[Notebook 3]
+
+Printer[Impressora de Rede]
+
+
