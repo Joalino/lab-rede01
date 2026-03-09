@@ -23,6 +23,8 @@ Data : 09/03/2026
 
  ---
 
+
+
   ## 2. Equipamentos utilizados neste laboratório 
 
   - 3 notebooks
@@ -54,5 +56,7 @@ Router ---> |LAN 1| PC1
 Router ---> |LAN 2| PC2
 Router ---> |LAN 3| PC3
 Router ---> |LAN 4| Printer
+
+Imagem da topologia utilizado no laboratório
 
 
